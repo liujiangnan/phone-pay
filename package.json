@@ -1,0 +1,26 @@
+{
+  "name": "phone-pay",
+  "version": "1.0.0",
+  "description": "简单地手机支付页面与支付列表查询",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujiangnan/phone-pay.git"
+  },
+  "keywords": [
+    "支付",
+    "手机",
+    "查询"
+  ],
+  "author": "liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liujiangnan/phone-pay/issues"
+  },
+  "homepage": "https://github.com/liujiangnan/phone-pay#readme",
+  "dependencies": {
+  }
+}
