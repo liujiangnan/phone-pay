@@ -1,6 +1,6 @@
 {
   "name": "phone-pay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "支付",
   "main": "index.js",
   "scripts": {
