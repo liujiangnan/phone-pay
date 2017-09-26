@@ -1,6 +1,6 @@
 {
   "name": "phone-pay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "简单地手机支付页面与支付列表查询",
   "main": "index.js",
   "scripts": {
